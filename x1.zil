@@ -26,18 +26,18 @@ OFF!-INITIAL	;"makes debugging possible -- pdl"
 <DIRECTIONS ;"Do not change the order of the first 8 without consulting MARC!"
  	    NORTH NE EAST SE SOUTH SW WEST NW UP DOWN IN OUT>
 
-<INSERT-FILE "MISC" T>
-<INSERT-FILE "PARSER" T>
-<INSERT-FILE "SYNTAX" T>
-<INSERT-FILE "VERBS" T>
-<INSERT-FILE "GLOBALS" T>
-<INSERT-FILE "EARTH" T>
-<INSERT-FILE "MARS" T>
-<INSERT-FILE "VENUS" T>
-<INSERT-FILE "CLEVELAND" T>
-<INSERT-FILE "SPACESHIP" T>
-<INSERT-FILE "PHOBOS" T>
-<INSERT-FILE "HINTS" T>
+<INSERT-FILE "misc" T>
+<INSERT-FILE "parser" T>
+<INSERT-FILE "syntax" T>
+<INSERT-FILE "verbs" T>
+<INSERT-FILE "globals" T>
+<INSERT-FILE "earth" T>
+<INSERT-FILE "mars" T>
+<INSERT-FILE "venus" T>
+<INSERT-FILE "cleveland" T>
+<INSERT-FILE "spaceship" T>
+<INSERT-FILE "phobos" T>
+<INSERT-FILE "hints" T>
 
 <PROPDEF SIZE 5>
 <PROPDEF CAPACITY 5>
