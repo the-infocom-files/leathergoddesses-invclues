@@ -31,4 +31,4 @@ The following sources provide further information on Leather Goddesses of Phobos
 
 Version 4/880405 has been selected as the starting point for future development.
 
-Compilation issues are recorded [here](https://github.com/the-infocom-files/leathergoddesses-invclues/issues/2).
+Compilation issues are recorded [here](https://github.com/the-infocom-files/leathergoddesses-invclues/issues/3).
